@@ -4,7 +4,7 @@
   "description": "Baby tracking application",
   "main": "main.js",
   "scripts": {
-    
+    "start" : "node main.js"
   },
   "repository": {
     "type": "git",
