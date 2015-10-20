@@ -1,0 +1,25 @@
+{
+  "name": "lisa",
+  "version": "0.0.0",
+  "description": "Baby tracking application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ezeasharma/lisa.git"
+  },
+  "keywords": [
+    "baby",
+    "tracking"
+  ],
+  "author": "ashish sharma",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ezeasharma/lisa/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.3"
+  }
+}
