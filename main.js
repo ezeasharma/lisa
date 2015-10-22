@@ -5,7 +5,7 @@ app.get('/', function(req, res){
 	res.send('Hello! This is Lisa, your personel assistant for baby activity tracking!');
 });
 
-var server = app.listen(80, function(){
+var server = app.listen(5000, function(){
 	var host = server.address().address;
 	var port = server.address().port;
 	console.log('Listening at http://%s:%s', host, port);
